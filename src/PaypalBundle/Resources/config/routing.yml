@@ -1,0 +1,3 @@
+paypal_homepage:
+    path:     /
+    defaults: { _controller: PaypalBundle:Default:index }
